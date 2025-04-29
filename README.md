@@ -7,13 +7,13 @@
 
 ## Сайты на Django:
 
-https://github.com/AlbinaGiliazova/SeearoGamecoach - сайт для стартапа, не финальная версия (финальную отдала заказчику).
-
 https://github.com/AlbinaGiliazova/foodgram - сайт рецептов
 
 https://github.com/AlbinaGiliazova/kittygram_final - загрузка фотографий котов
 
 https://github.com/AlbinaGiliazova/api_final_yatube - платформа для блогов
+
+https://github.com/AlbinaGiliazova/SeearoGamecoach - сайт для стартапа, не финальная версия (финальную отдала заказчику).
 
 ## Консольные приложения:
 
