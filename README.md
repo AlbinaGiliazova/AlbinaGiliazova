@@ -15,6 +15,8 @@ https://github.com/AlbinaGiliazova/api_final_yatube - платформа для 
 
 https://github.com/AlbinaGiliazova/SeearoGamecoach - сайт для стартапа, не финальная версия (финальную отдала заказчику).
 
+https://github.com/AlbinaGiliazova/Test_Cashoff - парсинг статей Хабра
+
 ## Консольные приложения:
 
 https://github.com/AlbinaGiliazova/HyperskillPythonProjects - больше десятка разных проектов по курсу Hyperskill
