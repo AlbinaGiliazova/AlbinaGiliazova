@@ -17,7 +17,7 @@ https://github.com/AlbinaGiliazova/SeearoGamecoach - сайт для старт�
 
 ## Консольные приложения:
 
-https://github.com/AlbinaGiliazova/Library - система управления библиотекой
+https://github.com/AlbinaGiliazova/Library - система управления библиотекой (вайб-кодинг)
 
 https://github.com/AlbinaGiliazova/Test_Rostov - выгрузка данных об игроках из базы данных
 
