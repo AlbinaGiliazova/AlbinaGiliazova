@@ -17,6 +17,8 @@ https://github.com/AlbinaGiliazova/SeearoGamecoach - сайт для старт�
 
 ## Консольные приложения:
 
+https://github.com/AlbinaGiliazova/HyperskillPythonProjects - больше десятка разных проектов по курсу Hyperskill
+
 https://github.com/AlbinaGiliazova/Library - система управления библиотекой (вайб-кодинг)
 
 https://github.com/AlbinaGiliazova/Test_Rostov - выгрузка данных об игроках из базы данных
@@ -28,8 +30,6 @@ https://github.com/AlbinaGiliazova/arena_7boot - игра про поединк�
 https://github.com/AlbinaGiliazova/data_generator - генерация и упаковка данных в архив
 
 https://github.com/AlbinaGiliazova/StepikTestingCourse - курс по тестированию с помощью Selenium
-
-https://github.com/AlbinaGiliazova/HyperskillPythonProjects - больше десятка разных проектов по курсу Hyperskill
 
 ## Телеграм-боты:
 
