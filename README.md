@@ -17,6 +17,8 @@ https://github.com/AlbinaGiliazova/SeearoGamecoach - сайт для старт�
 
 https://github.com/AlbinaGiliazova/Test_Cashoff - парсинг статей Хабра
 
+https://github.com/AlbinaGiliazova/django_app_tree_menu - приложение с древовидным меню
+
 ## Консольные приложения:
 
 https://github.com/AlbinaGiliazova/HyperskillPythonProjects - больше десятка разных проектов по курсу Hyperskill
