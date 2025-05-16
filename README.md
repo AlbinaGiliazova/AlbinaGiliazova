@@ -35,6 +35,8 @@ https://github.com/AlbinaGiliazova/data_generator - генерация и упа
 
 https://github.com/AlbinaGiliazova/StepikTestingCourse - курс по тестированию с помощью Selenium
 
+https://github.com/AlbinaGiliazova/Test_Workmate - приложение для анализа логов
+
 ## Телеграм-боты:
 
 https://github.com/AlbinaGiliazova/homework_bot - проверка, проверено ли задание ревьюером (Telegrambot API)
