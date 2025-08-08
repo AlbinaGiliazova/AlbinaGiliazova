@@ -19,6 +19,8 @@ https://github.com/AlbinaGiliazova/Test_Cashoff - парсинг статей Х
 
 https://github.com/AlbinaGiliazova/django_app_tree_menu - приложение с древовидным меню
 
+https://github.com/AlbinaGiliazova/s3_images - обработка аватаров и сохранение в S3-хранилище
+
 ## Консольные приложения:
 
 https://github.com/AlbinaGiliazova/HyperskillPythonProjects - больше десятка разных проектов по курсу Hyperskill
