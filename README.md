@@ -21,6 +21,8 @@ https://github.com/AlbinaGiliazova/django_app_tree_menu - приложение �
 
 https://github.com/AlbinaGiliazova/s3_images - обработка аватаров и сохранение в S3-хранилище
 
+https://github.com/AlbinaGiliazova/Quotes - сайт цитат
+
 ## Консольные приложения:
 
 https://github.com/AlbinaGiliazova/HyperskillPythonProjects - больше десятка разных проектов по курсу Hyperskill
