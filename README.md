@@ -22,6 +22,8 @@ https://github.com/AlbinaGiliazova/s3_images - обработка аватаро
 
 https://github.com/AlbinaGiliazova/Quotes - сайт цитат
 
+https://github.com/AlbinaGiliazova/Pomogi_lichno_backend - сайт для БФ Помоги лично
+
 ## Консольные приложения:
 
 https://github.com/AlbinaGiliazova/HyperskillPythonProjects - больше десятка разных проектов по курсу Hyperskill
