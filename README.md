@@ -45,6 +45,9 @@ https://github.com/AlbinaGiliazova/Test_Workmate - приложение для �
 ## Телеграм-боты:
 
 https://github.com/AlbinaGiliazova/homework_bot - проверка, проверено ли задание ревьюером (Telegrambot API)
+## На движке Odoo:
+
+https://github.com/AlbinaGiliazova/Odoo# - сайт про упаковку мебели
 
 Телеграм: @GiliazovaAA👋
 
