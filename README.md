@@ -24,6 +24,8 @@ https://github.com/AlbinaGiliazova/Quotes - сайт цитат
 
 https://github.com/AlbinaGiliazova/Pomogi_lichno_backend - сайт для БФ Помоги лично
 
+https://github.com/AlbinaGiliazova/Hotels# - сайт про отели
+
 ## Консольные приложения:
 
 https://github.com/AlbinaGiliazova/HyperskillPythonProjects - больше десятка разных проектов по курсу Hyperskill
